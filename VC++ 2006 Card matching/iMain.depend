@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1499590616 source:e:\reading-stuffs\academy\1-1\projects\card matching 11 vs 2006 audio+bonus card\vc++ 2006 card matching\imain.cpp
+	"iGraphics.h"
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1494867627 e:\reading-stuffs\academy\1-1\projects\card matching 11 vs 2006 audio+bonus card\vc++ 2006 card matching\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
